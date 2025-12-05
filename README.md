@@ -25,4 +25,4 @@ Pada kegiatan tersebut semua peserta mempelajari seperti apa itu data.
 Data adalah representasi fakta, angka, atau simbol yang disimpan dalam bentuk tertentu sehingga dapat diproses menjadi informasi[^1] 
 [^1]: (Silberschatz, Korth, & Sudarshan, 2020). 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Rafly-87/belajar-makdown/refs/heads/main/flyer-workshop.jpeg)
