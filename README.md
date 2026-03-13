@@ -26,3 +26,5 @@ Data adalah representasi fakta, angka, atau simbol yang disimpan dalam bentuk te
 [^1]: (Silberschatz, Korth, & Sudarshan, 2020). 
 
 ![alt text](https://raw.githubusercontent.com/Rafly-87/belajar-makdown/refs/heads/main/flyer-workshop.jpeg)
+
+![alt text](https://github.com/Rafly-87/belajar-makdown/blob/main/2.png)
